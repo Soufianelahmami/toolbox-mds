@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp1nmN.webp",
+            "title": "toolbox mds 1",
+            "text_Content_": "Design a user-friendly GUI that allows users to input their data and choose parameters for MDS analysis."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp1Cep.webp",
+            "title": "toolbox mds 2",
+            "text_Content_": "Include options for different MDS algorithms (classical MDS, metric MDS, non-metric MDS) and distance metrics."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp1qdv.webp",
+            "title": "toolbox mds 3",
+            "text_Content_": "Provide interactive visualizations of the results, such as scatter plots or 3D plots, allowing users to explore the spatial arrangement of data points."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp1B7R.webp",
+            "title": "toolbox mds 4",
+            "text_Content_": "Implement data preprocessing functionalities to handle missing values, outliers, and normalization."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp1dLF.webp",
+            "title": "toolbox mds 5",
+            "text_Content_": "Allow users to upload data in various formats (CSV, Excel, etc.) and provide feedback on data quality."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp13qg.webp",
+            "title": "toolbox mds 6",
+            "text_Content_": "Implement different MDS algorithms and allow users to choose the most suitable one for their data."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp1F1a.webp",
+            "title": "toolbox mds 7",
+            "text_Content_": "Provide options for parallel processing to enhance computational efficiency for large datasets."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp1KrJ.webp",
+            "title": "toolbox mds 8",
+            "text_Content_": "Include features for automatic or manual tuning of parameters, such as the number of dimensions or the choice of a distance metric."
         }
     ]
 }
